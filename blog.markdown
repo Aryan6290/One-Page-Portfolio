@@ -3,4 +3,4 @@ layout: blog
 title: Blog
 permalink: /blog/
 ---
-this is me as of now
+Me while making this project XD
